@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning and discovering the many possibilities with Streamlit 
-- 📫 How to reach me: ([LinkedIn](www.linkedin.com/in/sabrinareimann )) 
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sabrinareimann )
 - 😄 Pronouns: she / her 
 
 

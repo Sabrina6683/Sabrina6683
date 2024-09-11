@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-
+<h3 align="left"> 📈 GitHub Statistics:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina6683)](https://github.com/anuraghazra/github-readme-stats)
 

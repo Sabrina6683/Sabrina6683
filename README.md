@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and discovering the many possibilities of [Streamlit](https://streamlit.io/)
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sabrinareimann )
 - 😄 Pronouns: she / her
+- 🏝️ Traveller
 
 <br />
 

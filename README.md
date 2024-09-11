@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://sava-beratung.de)
 
 
-- 🌱 I’m currently learning and discovering the many possibilities with Streamlit 
+- 🌱 I’m currently learning and discovering the many possibilities with [Streamlit](https://streamlit.io/)
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sabrinareimann )
 - 😄 Pronouns: she / her
   
